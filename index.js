@@ -15,5 +15,5 @@ Student.prototype.sayName = function() {
 
 
 // provided code to test above constructor and method
-var you = new Student("Richard Fitzwell", 31415962853589793236264338);
+var you = new Student("Richard Fitzwell", 31415926535897932384626433832795028841971693993751);
 you.sayName();
